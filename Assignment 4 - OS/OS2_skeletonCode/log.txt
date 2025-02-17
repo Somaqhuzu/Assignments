@@ -1,0 +1,23 @@
+commit 50a7f00b0ee7d504d8779cc59af0e96b9192a81f
+Author: Somaqhuzu <onelenkangezi@gmail.com>
+Date:   Sun May 12 12:25:52 2024 +0200
+
+    Data visualization completed.
+
+commit 4beb1522a13452209fb8e3206c3c1e3c4fb370c3
+Author: Somaqhuzu <onelenkangezi@gmail.com>
+Date:   Wed May 1 14:33:47 2024 +0200
+
+    Last metric complete,Throughput, for the FCFS algo
+
+commit 5289b78fb20b426c2aa89aed50ccd698c7c1b8f2
+Author: Somaqhuzu <onelenkangezi@gmail.com>
+Date:   Wed May 1 14:01:25 2024 +0200
+
+    ResponseTime metric done
+
+commit 330bdfd49438e9d9b85e47f1bf90c0b1a3647d44
+Author: Somaqhuzu <onelenkangezi@gmail.com>
+Date:   Wed May 1 13:33:44 2024 +0200
+
+    WaitingTime metric completed
